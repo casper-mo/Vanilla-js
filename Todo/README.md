@@ -1,5 +1,5 @@
 # Simple todo list
-[Live](https://casper-mo.github.io/Vanilla-js/Todo)
+## [Live](https://casper-mo.github.io/Vanilla-js/Todo)
 ### Features:
 - [x] Add todo items
 - [x] Remove Selected item with animation
